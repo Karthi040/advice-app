@@ -1,0 +1,9 @@
+.advice {
+    background-color: rgba(123, 3, 147, 0.449);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+}
